@@ -8,7 +8,7 @@
 
 <h2>Hello World!</h2>
 
-<p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
+<p>Hello World <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
 
