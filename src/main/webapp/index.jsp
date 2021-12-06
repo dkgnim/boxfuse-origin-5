@@ -6,7 +6,7 @@
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
-<h2>Hello DevOps!</h2>
+<h2>Hello DevOps Hello!</h2>
 
 <p>Hello World Hello <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
