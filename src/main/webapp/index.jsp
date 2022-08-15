@@ -8,7 +8,7 @@
 
 <h2>Hello DevOps Hello! Hello!!!</h2>
 
-<p>Hello World Hello <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
+<p>Hello World Hello Hello Again!!! <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
 
